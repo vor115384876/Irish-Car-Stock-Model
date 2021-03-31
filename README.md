@@ -4,7 +4,7 @@ The Irish Car Stock Model was first developed by Daly and Ó Gallachoir (2011a),
 
 Future scenarios were explored in Daly and Ó Gallachoir (2011b) entitled "Modelling future private car energy demand in Ireland", and is available at: https://doi.org/10.1016/j.enpol.2011.09.027
 
-Further updates to the Irish Car Stock Model were developed by Mulholland et al. (2017), the Data article entitled "Techno-economic data for a multi-model approach to decarbonisation of the Irish private car sector" is available at:  https://doi.org/10.1016/j.dib.2017.10.006.
+Further updates to the Irish Car Stock Model were developed by Mulholland et al. (2017), the article entitled "Techno-economic data for a multi-model approach to decarbonisation of the Irish private car sector" is available at:  https://doi.org/10.1016/j.dib.2017.10.006.
 
 Latest update is led by Vera O'Riordan, Hannah Daly, Fionn Rogan and Brian Ó Gallachóir.
 
