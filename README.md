@@ -1,5 +1,7 @@
 # Irish-Car-Stock-Model
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4651477.svg)](https://doi.org/10.5281/zenodo.4651477)
+
 The Irish Car Stock Model was first developed by Daly and Ó Gallachóir (2011a), entitled "Modelling private car energy demand using a technological car stock model". It is available at: https://doi.org/10.1016/j.trd.2010.08.009. 
 
 Future scenarios were explored in Daly and Ó Gallachóir (2011b) entitled "Modelling future private car energy demand in Ireland", and is available at: https://doi.org/10.1016/j.enpol.2011.09.027
